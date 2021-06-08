@@ -77,9 +77,9 @@ https://www.php.net/distributions/manual/php_manual_zh.tar.gz
 双击php8.docset文件，会自动打开dash。
 
 ### 备注
-1. 如果selectors规则不合适，可以在dash中删除文档，然后修改dashing.json后，重新制作
+1. 如果selectors规则不合适，可以在dash中删除文档，然后修改dashing.json，重新制作
 2. 采用dashing生成的文档暂时没有发现什么问题
-3. 配合alfred使用会非常方便
+3. 配合alfred使用会大大提高效率
 
 ### 参考资料
 https://github.com/technosophos/dashing
