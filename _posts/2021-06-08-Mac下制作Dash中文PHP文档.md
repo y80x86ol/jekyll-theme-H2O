@@ -7,7 +7,7 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 效率工具
 ---
 
-> Transform your plain text into static websites and blogs.
+> 使用dashing工具快速制作中文PHP文档
 
 ### 安装dashing制作工具
     brew install dashing
@@ -18,6 +18,7 @@ tags: 效率工具
 选择 Chinese (Simplified)-->Many HTML files
 
 附php中文文档直接下载地址：
+
 https://www.php.net/distributions/manual/php_manual_zh.tar.gz
 
 ### 解压
@@ -69,6 +70,7 @@ https://www.php.net/distributions/manual/php_manual_zh.tar.gz
 
 ### 开始制作
     dashing build
+
 会在此文件夹中生成一个php8.docset文件
 
 ### 导入文档
