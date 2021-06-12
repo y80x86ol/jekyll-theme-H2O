@@ -24,7 +24,7 @@ tags: git
     
     Mac路径 /Users/你的mac用户名/.ssh
 
-### 3、git输入命令
+### 3、生成新的ssh key
 
     ssh-keygen -t rsa -C "your@email.com"（请填你设置的邮箱地址）
 
