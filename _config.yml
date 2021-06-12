@@ -25,8 +25,8 @@ footer:
 
 # Author 配置博主信息
 author: 'ken'
-nickname: '悟空'
-bio: '后端开发，项目管理'
+nickname: '西门'
+bio: '全栈开发，项目管理'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -45,7 +45,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'qq']
+social-share-items: ['wechat']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
